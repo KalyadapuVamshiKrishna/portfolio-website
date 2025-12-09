@@ -79,5 +79,5 @@ The design follows a dark, glassy aesthetic using **Neumorphism** and **Glassmor
 
 ```bash
 git clone [https://github.com/vamshi-username/3d-dev-portfolio.git](https://github.com/KalyadapuVamshiKrishna/portfolio-website)
-cd 3d-dev-portfolio
+cd portfolio-website
 npm install
